@@ -1,0 +1,16 @@
+attempt_v1.py::DLSUEnrollment::test_course_offerings_details
+--------------------------------------------------------------------
+Last Page: https://enroll.dlsu.edu.ph/dlsu/view_course_offerings
+ Duration: 1.26s
+  Browser: Chrome 115.0.5790.170
+   Driver: chromedriver 115.0.5790.102
+Timestamp: 1692020235  (Unix Timestamp)
+     Date: Monday, 14 August 2023
+     Time: 9:37:15 PM  (PST, UTC+08:00)
+--------------------------------------------------------------------
+Traceback:
+  File "/Users/armaine/Documents/Scrape3/attempt_v1.py", line 14, in test_course_offerings_details
+    user_id = input("Please enter your ID number: ")
+  File "/opt/homebrew/Caskroom/miniconda/base/lib/python3.9/site-packages/_pytest/capture.py", line 202, in read
+    raise OSError(
+Exception: pytest: reading from stdin while output is captured!  Consider using `-s`.

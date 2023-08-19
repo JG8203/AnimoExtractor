@@ -1,0 +1,708 @@
+								#content
+								{
+									PADDING-RIGHT: 0px;
+									PADDING-LEFT: 0px;
+									BACKGROUND: white;
+									FLOAT: left;
+									PADDING-BOTTOM: 0px;
+									MARGIN: 0px;
+									WIDTH: 100%;
+									PADDING-TOP: 0px
+								}
+								.content
+								{
+									CLEAR: left;
+									PADDING-RIGHT: 0px;
+									PADDING-LEFT: 0px;
+									FLOAT: none;
+									PADDING-BOTTOM: 0px;
+									MARGIN: -16px 15px 15px 12px;
+									FONT: 12px/16px "Trebuchet MS", Helvetica, Georgia, sans-serif;
+									COLOR: black;
+									PADDING-TOP: 0px
+								}
+								.content H3
+								{
+									CLEAR: left;
+									FLOAT: none;
+									FONT: bold 16px Arial, Helvetica, Georgia, sans-serif;
+									COLOR: green
+								}
+								.content H4
+								{
+									FONT: bold 14px Arial, Helvetica, Georgia, sans-serif;
+									COLOR: #df6f00
+								}
+								.content DT
+								{
+									FONT: bold 14px Arial, Helvetica, Georgia, sans-serif;
+									COLOR: #df6f00
+								}
+								.content H4
+								{
+									MARGIN: 0px
+								}
+								.content H5
+								{
+									MARGIN: 0px;
+									FONT: bold 14px "Trebuchet MS", Helvetica, Georgia, sans-serif;
+									COLOR: #ffae5f;
+									TEXT-INDENT: 23px
+								}
+								.content H6
+								{
+									MARGIN: 0px;
+									FONT: bold 14px Arial, Helvetica, Georgia, sans-serif;
+									COLOR: #a6a6a6
+								}
+								.content-nowrap
+								{
+									WHITE-SPACE: nowrap
+								}
+								.content-center
+								{
+									MARGIN-LEFT: auto;
+									MARGIN-RIGHT: auto;
+									TEXT-ALIGN: center
+								}
+								.content-center CAPTION
+								{
+									MARGIN-LEFT: auto;
+									MARGIN-RIGHT: auto;
+									TEXT-ALIGN: center
+								}
+								.content-right
+								{
+									MARGIN-LEFT: auto;
+									TEXT-ALIGN: right
+								}
+								.content-right CAPTION
+								{
+									MARGIN-LEFT: auto;
+									TEXT-ALIGN: right
+								}
+								.content UL
+								{
+								}
+								.content-ul
+								{
+								}
+								.content TD UL LI
+								{
+									PADDING-RIGHT: 0px;
+									PADDING-LEFT: 20px;
+									FONT-SIZE: 12px! important;
+									BACKGROUND: url(https://omega1.dlsu.edu.ph/_images/_tmpl1/cb-ul-circle-bullet.gif) no-repeat left top;
+									PADDING-BOTTOM: 0px;
+									MARGIN-LEFT: -45px;
+									PADDING-TOP: 0px;
+									FONT-FAMILY: "Trebuchet MS";
+									LIST-STYLE-TYPE: none
+								}
+								.content TD UL LI UL LI
+								{
+									MARGIN-LEFT: -45px! important
+								}
+								.content A:link
+								{
+									BACKGROUND: url(https://omega1.dlsu.edu.ph/_images/_tmpl1/cb-hover-bg.gif) repeat-x 100% 100%;
+									COLOR: #347b00;
+									TEXT-DECORATION: none
+								}
+								.content A:visited
+								{
+									BACKGROUND: url(https://omega1.dlsu.edu.ph/_images/_tmpl1/cb-hover-bg.gif) repeat-x 100% 100%;
+									COLOR: #347b00;
+									TEXT-DECORATION: none
+								}
+								.content A:active
+								{
+									BACKGROUND: url(https://omega1.dlsu.edu.ph/_images/_tmpl1/cb-hover-bg.gif) repeat-x 100% 100%;
+									COLOR: #347b00;
+									TEXT-DECORATION: none
+								}
+								.content A:hover
+								{
+									BACKGROUND: url(https://omega1.dlsu.edu.ph/_images/_tmpl1/cb-hover-bg-anim.gif) repeat-x 100% 100%;
+									COLOR: #92278f;
+									TEXT-DECORATION: none
+								}
+								.content A IMG
+								{
+									BORDER-RIGHT: 0px;
+									BORDER-TOP: 0px;
+									BACKGROUND: none transparent scroll repeat 0% 0%;
+									BORDER-LEFT: 0px;
+									BORDER-BOTTOM: 0px;
+									WHITE-SPACE: normal;
+									TEXT-DECORATION: none
+								}
+								A.href-style-none:link
+								{
+									BORDER-RIGHT: 0px;
+									BORDER-TOP: 0px;
+									BACKGROUND: none transparent scroll repeat 0% 0%;
+									BORDER-LEFT: 0px;
+									BORDER-BOTTOM: 0px;
+									WHITE-SPACE: normal;
+									TEXT-DECORATION: none
+								}
+								A.href-style-none:visited
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BACKGROUND: none transparent scroll repeat 0% 0%;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px;
+								    WHITE-SPACE: normal;
+								    TEXT-DECORATION: none
+								}
+								A.href-style-none:active
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BACKGROUND: none transparent scroll repeat 0% 0%;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px;
+								    WHITE-SPACE: normal;
+								    TEXT-DECORATION: none
+								}
+								A.href-style-none:hover
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BACKGROUND: none transparent scroll repeat 0% 0%;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px;
+								    WHITE-SPACE: normal;
+								    TEXT-DECORATION: none
+								}
+								.cb-contact-info
+								{
+								    BORDER-RIGHT: #ffe8c0 1px solid;
+								    BORDER-TOP: #ffe8c0 1px solid;
+								    BACKGROUND: url(https://omega1.dlsu.edu.ph/_images/_tmpl1/cb-contact-bg.gif) #fdfeef repeat-x 100% 0px;
+								    MARGIN: 10px auto;
+								    BORDER-LEFT: #ffe8c0 1px solid;
+								    WIDTH: 60%;
+								    COLOR: #707070;
+								    PADDING-TOP: 6px;
+								    BORDER-BOTTOM: #ffe8c0 1px solid;
+								    TEXT-ALIGN: center
+								}
+								.cb-contact-info H4
+								{
+								    PADDING-RIGHT: 2px;
+								    DISPLAY: block;
+								    PADDING-LEFT: 2px;
+								    PADDING-BOTTOM: 2px;
+								    COLOR: #d4941e;
+								    PADDING-TOP: 2px;
+								    BORDER-BOTTOM: #fbfde0 1px solid
+								}
+								.content-panel
+								{
+								    BORDER-TOP: #a9b67e 1px dashed;
+								    BACKGROUND: #f5f9e7;
+								    FLOAT: none;
+								    WIDTH: 300px;
+								    BORDER-BOTTOM: #a9b67e 1px dashed
+								}
+								.content-panel H3
+								{
+								    PADDING-RIGHT: 0.5em;
+								    BORDER-TOP: white 6px solid;
+								    MARGIN-TOP: 0px;
+								    PADDING-LEFT: 0.5em;
+								    PADDING-BOTTOM: 0px;
+								    PADDING-TOP: 0.5em
+								}
+								.content-panel P
+								{
+								    PADDING-RIGHT: 0.5em;
+								    BORDER-TOP: white 6px solid;
+								    PADDING-LEFT: 0.5em;
+								    PADDING-BOTTOM: 0.5em;
+								    MARGIN: 0px;
+								    PADDING-TOP: 0.5em;
+								    BORDER-BOTTOM: white 6px solid
+								}
+								.cb-item-date
+								{
+								    FONT: 10px "Trebuchet MS", Helvetica, Georgia, sans-serif;
+								    COLOR: #e87627
+								}
+								.cb-item-url
+								{
+								    FONT: 10px "Trebuchet MS", Helvetica, Georgia, sans-serif;
+								    COLOR: #e87627
+								}
+								.cb-note
+								{
+								    FONT: 12px "Trebuchet MS", Helvetica, Georgia, sans-serif;
+								    COLOR: #999999
+								}
+								P.prompt
+								{
+								    MARGIN-LEFT: auto;
+								    MARGIN-RIGHT: auto;
+								    TEXT-ALIGN: center
+								}
+								P.warning
+								{
+								    MARGIN-LEFT: auto;
+								    COLOR: #ff0000;
+								    MARGIN-RIGHT: auto
+								}
+								P.feedback2
+								{
+								    FONT-WEIGHT: normal! important;
+								    FONT-SIZE: 13px! important;
+								    MARGIN-LEFT: auto;
+								    COLOR: green;
+								    MARGIN-RIGHT: auto;
+								    FONT-FAMILY: "Trebuchet MS", Helvetica, Georgia, sans-serif;
+								    TEXT-ALIGN: center
+								}
+								.warning
+								{
+								    COLOR: #ff0000
+								}
+								P.error
+								{
+								    FONT-SIZE: 13px! important;
+								    MARGIN-LEFT: auto;
+								    COLOR: #ff0000;
+								    MARGIN-RIGHT: auto;
+								    TEXT-ALIGN: center
+								}
+								.error
+								{
+								    COLOR: #ff0000! important
+								}
+								.prompt
+								{
+								    COLOR: #22a122! important
+								}
+								.image-right
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								.image-left
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								.image-left-valign
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								.image-right-valign
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								.image-clear-both
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								.image-right
+								{
+								    FLOAT: right
+								}
+								.image-right-valign
+								{
+								    FLOAT: right
+								}
+								.image-left
+								{
+								    FLOAT: left
+								}
+								.image-left-valign
+								{
+								    FLOAT: left
+								}
+								.image-left-valign
+								{
+								    CLEAR: both
+								}
+								.image-right-valign
+								{
+								    CLEAR: both
+								}
+								.image-clear-both
+								{
+								    CLEAR: both
+								}
+								.content TABLE
+								{
+								    BORDER-RIGHT: #209720 1px solid;
+								    BORDER-TOP: #209720 1px solid;
+								    BORDER-LEFT: #209720 1px solid;
+								    BORDER-BOTTOM: #209720 1px solid
+								}
+								.content TR TD
+								{
+								    PADDING-RIGHT: 6px;
+								    PADDING-LEFT: 6px;
+								    BACKGROUND: #ffffff;
+								    PADDING-BOTTOM: 2px;
+								    FONT: 12px "Trebuchet MS", Helvetica, Georgia, sans-serif;
+								    VERTICAL-ALIGN: top;
+								    PADDING-TOP: 2px
+								}
+								.content THEAD TD
+								{
+								    FONT-WEIGHT: bold;
+								    BORDER-LEFT: #2d7e01 1px solid;
+								    COLOR: #fdf9c4;
+								    BACKGROUND-COLOR: #369701
+								}
+								.content TFOOT TD
+								{
+								    FONT-WEIGHT: normal;
+								    COLOR: #000000;
+								    BACKGROUND-COLOR: #dee2d9
+								}
+								.content TBODY TD
+								{
+								    BORDER-LEFT: #d9d9d9 1px solid
+								}
+								.content TFOOT TD
+								{
+								    BORDER-LEFT: #d9d9d9 1px solid
+								}
+								.content TBODY TR.even TD
+								{
+								    BACKGROUND: #f5f7f2
+								}
+								.content TBODY TR.selected TD
+								{
+								    FONT-WEIGHT: bold;
+								    BACKGROUND: #d8f2d8;
+								    BORDER-LEFT: #d9d9d9 1px solid;
+								    COLOR: black
+								}
+								.content TBODY TR.torso TD
+								{
+								    FONT-WEIGHT: normal;
+								    COLOR: #000000;
+								    BACKGROUND-COLOR: #e2e5dd
+								}
+								.content TBODY TR.chosen TD
+								{
+								    FONT-WEIGHT: normal;
+								    BACKGROUND: #d8f2d8;
+								    BORDER-LEFT: #d9d9d9 1px solid;
+								    COLOR: black
+								}
+								.content TBODY TR.clear TD
+								{
+								    BACKGROUND: #ffffff;
+								    BORDER-LEFT: 0px;
+								    COLOR: black
+								}
+								.content TBODY TR.semi TD
+								{
+								    FONT-WEIGHT: normal;
+								    BACKGROUND: #ffffff;
+								    COLOR: black;
+								    BORDER-BOTTOM: #d9d9d9 1px solid
+								}
+								.content TBODY TR.ruled TD
+								{
+								    CURSOR: auto;
+								    COLOR: #000000;
+								    BACKGROUND-COLOR: #f2ffca
+								}
+								.content CAPTION
+								{
+								    BORDER-RIGHT: #22a122 1px solid;
+								    PADDING-RIGHT: 2px;
+								    BORDER-TOP: #22a122 1px solid;
+								    PADDING-LEFT: 2px;
+								    PADDING-BOTTOM: 3px;
+								    FONT: bold 12px "Trebuchet MS", Helvetica, Georgia, sans-serif;
+								    BORDER-LEFT: #22a122 1px solid;
+								    COLOR: #ffffff;
+								    PADDING-TOP: 3px;
+								    BACKGROUND-COLOR: #26b226
+								}
+								.content TABLE TD.disabled
+								{
+								    COLOR: #999
+								}
+								TD.tdcap
+								{
+								    PADDING-RIGHT: 2px;
+								    PADDING-LEFT: 2px;
+								    PADDING-BOTTOM: 3px;
+								    FONT: bold 12px "Trebuchet MS", Helvetica, Georgia, sans-serif;
+								    COLOR: #ffffff;
+								    PADDING-TOP: 3px;
+								    BACKGROUND-COLOR: #26b226! important
+								}
+								TABLE.clear
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								TABLE.clear THEAD TD
+								{
+								    BORDER-LEFT: 0px
+								}
+								TABLE.clear TBODY TD
+								{
+								    BORDER-LEFT: 0px
+								}
+								TABLE.clear TFOOT TD
+								{
+								    BORDER-LEFT: 0px
+								}
+								TABLE.clear TBODY TR.selected TD
+								{
+								    BORDER-LEFT: 0px
+								}
+								TABLE.form
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								TABLE.form THEAD TD
+								{
+								    BORDER-LEFT: 0px
+								}
+								TABLE.f-content TBODY TD
+								{
+								    BORDER-LEFT: 0px
+								}
+								TABLE.form TFOOT TD
+								{
+								    BORDER-LEFT: 0px
+								}
+								TABLE.form TBODY TR.selected TD
+								{
+								    BORDER-LEFT: 0px
+								}
+								FIELDSET
+								{
+								    BORDER-RIGHT: #fedda4 1px solid;
+								    PADDING-RIGHT: 5px;
+								    BORDER-TOP: #fedda4 1px solid;
+								    PADDING-LEFT: 5px;
+								    MARGIN-BOTTOM: 6px;
+								    PADDING-BOTTOM: 5px;
+								    BORDER-LEFT: #fedda4 1px solid;
+								    COLOR: #62748a;
+								    PADDING-TOP: 5px;
+								    BORDER-BOTTOM: #fedda4 1px solid
+								}
+								FIELDSET.wrapper
+								{
+								    BORDER-RIGHT: 0px;
+								    PADDING-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    PADDING-LEFT: 0px;
+								    PADDING-BOTTOM: 0px;
+								    MARGIN: 0px;
+								    BORDER-LEFT: 0px;
+								    PADDING-TOP: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								LEGEND
+								{
+								    FONT-WEIGHT: bold;
+								    COLOR: #e8a023
+								}
+								INPUT
+								{
+								    LEFT: 0px;
+								    FONT: 11px Verdana, Geneva, Arial, Helvetica, sans-serif;
+								    POSITION: relative;
+								    TOP: 0px
+								}
+								TEXTAREA
+								{
+								    LEFT: 0px;
+								    FONT: 11px Verdana, Geneva, Arial, Helvetica, sans-serif;
+								    POSITION: relative;
+								    TOP: 0px
+								}
+								INPUT.radio
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								INPUT.sradio
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								INPUT.checkbox
+								{
+								    BORDER-RIGHT: 0px;
+								    BORDER-TOP: 0px;
+								    BORDER-LEFT: 0px;
+								    BORDER-BOTTOM: 0px
+								}
+								.button
+								{
+								    BORDER-RIGHT: #298a28 1px solid;
+								    PADDING-RIGHT: 1px;
+								    BORDER-TOP: #298a28 1px solid;
+								    PADDING-LEFT: 1px;
+								    PADDING-BOTTOM: 1px;
+								    BORDER-LEFT: #298a28 1px solid;
+								    COLOR: #fff;
+								    PADDING-TOP: 1px;
+								    BORDER-BOTTOM: #298a28 1px solid;
+								    BACKGROUND-COLOR: #3eb03d
+								}
+								.button:hover
+								{
+								    BORDER-RIGHT: #cc8864 1px solid;
+								    PADDING-RIGHT: 1px;
+								    BORDER-TOP: #cc8864 1px solid;
+								    PADDING-LEFT: 1px;
+								    PADDING-BOTTOM: 1px;
+								    BORDER-LEFT: #cc8864 1px solid;
+								    CURSOR: pointer;
+								    COLOR: #fff;
+								    PADDING-TOP: 1px;
+								    BORDER-BOTTOM: #cc8864 1px solid;
+								    BACKGROUND-COLOR: #fb925a
+								}
+								.button:focus
+								{
+								    BORDER-RIGHT: #cc8864 1px solid;
+								    PADDING-RIGHT: 1px;
+								    BORDER-TOP: #cc8864 1px solid;
+								    PADDING-LEFT: 1px;
+								    PADDING-BOTTOM: 1px;
+								    BORDER-LEFT: #cc8864 1px solid;
+								    CURSOR: pointer;
+								    COLOR: #fff;
+								    PADDING-TOP: 1px;
+								    BORDER-BOTTOM: #cc8864 1px solid;
+								    BACKGROUND-COLOR: #fb925a
+								}
+								.button:active
+								{
+								    BORDER-RIGHT: #666 1px solid;
+								    PADDING-RIGHT: 1px;
+								    BORDER-TOP: #666 1px solid;
+								    PADDING-LEFT: 1px;
+								    PADDING-BOTTOM: 1px;
+								    BORDER-LEFT: #666 1px solid;
+								    CURSOR: wait;
+								    COLOR: #fff;
+								    PADDING-TOP: 1px;
+								    BORDER-BOTTOM: #666 1px solid;
+								    BACKGROUND-COLOR: #666
+								}
+
+			body {
+				 font:12px Verdana, sans-serif;
+				}
+
+			.errormsg {
+				 text-align:center;
+				 font:bold 14px Verdana, sans-serif;
+				 color:red;
+				}
+
+			.tabberlive .tabbertabhide {
+				 display:none;
+				}
+
+			.tabber {
+				 display:none;
+				}
+
+			.tabberlive {
+				 margin-top:1px;
+				}
+
+			ul.tabbernav {
+				 margin:0;
+				 padding:0.5em 0;
+				 border-bottom: 1px solid #778;
+				 font: bold 12px "Trebuchet MS", Helvetica, Georgia, sans-serif; /*Verdana, sans-serif;*/
+				}
+
+			ul.tabbernav li {
+				 list-style: none;
+				 margin: 0;
+				 display: inline;
+				}
+
+			ul.tabbernav li a {
+				 padding:0.5em;
+				 margin-left: 0.5em;
+				 border:1px solid #778;
+				 border-bottom:none;
+				 background: #DDE;
+				 text-decoration:none;
+				}
+
+			ul.tabbernav li a:link {
+				 color: black; /*#448;*/
+				}
+
+			ul.tabbernav li a:visited {
+				 color: yellow; #667;
+				}
+
+			ul.tabbernav li a:hover {
+				 color: white; /*#000;*/
+				 background: #009900;
+				 border-color: #227;
+				}
+
+			ul.tabbernav li.tabberactive a {
+				 background-color: #3eb03d; /*#32CD32;*/
+				 border-bottom: 1px solid #3eb03d; /*#32CD32;*/
+				}
+
+			ul.tabbernav li.tabberactive a:hover {
+				 color: #000;
+				 background: white;
+				 border-bottom: 1px solid white;
+				}
+
+			.tabberlive .tabbertab {
+				 padding:1em;
+				 border:2px solid #aaa;
+				 border-top:0;
+				 height:60ex;
+				 overflow:visible;
+				}
+
+			.tabberlive .tabbertab h2 {
+				 display:none;
+				}
+
+			.tabberlive .tabbertab h3 {
+				 display:none;
+				}
